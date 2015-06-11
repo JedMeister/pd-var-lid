@@ -1,6 +1,6 @@
 
-data/plugins/editor.zoho/agent.pem
+data/plugins/editor.zoho/
 
-data/logs/ajxp_access.log
+data/logs/
 
-data/cache/diag_result.php
+data/cache/
